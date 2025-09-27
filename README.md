@@ -238,11 +238,4 @@ Aşağıdaki başlıklar `Issues` olarak açılabilir. Her issue kısa açıklam
 
 ---
 
-## Notlar
 
-* İstersen bu issue metinlerini doğrudan GitHub Issues API veya GitHub web arayüzüne ekleyebilecek hazır JSON/başlık formatı da oluşturabilirim.
-* Her issue için tahmini süre istersen haftalık tahminler de ekleyebilirim.
-
----
-
-*Hazır olduğunda istersen bu markdown'u doğrudan repo'na eklemene yardımcı olurum veya her issue'yu tek tek GitHub'a yazacak formatta (title/body/labels) dışa aktarırım.*
